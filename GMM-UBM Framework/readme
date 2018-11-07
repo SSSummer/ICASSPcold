@@ -1,1 +1,4 @@
-Based on gmm-ubm framework
+1. Run the gMM-UBM framework provided here. 
+Just download the mfcc feature and put it in the current directory. Then run 'runMe' file directly to get the result.
+2. i-vector framework uses Microsoft's MSR Identity Toolbox Version 1.0, 
+you can use our extracted mfcc to do their own experiments.
