@@ -19,9 +19,7 @@ We have already trained model.
 Just download the model and put it in the current directory. Then run 'runMe' file directly to get the result.
 Download address: https://drive.google.com/open?id=1BmGEv4GI03gQ8ZnQXnkSbkqvqvZueKbf
 
-if you want to see different result.Please changed the Path from the runMe.ipynb
-
-.. code:: python
+if you want to see different result. Please changed the Path from the runMe.ipynb
 
       model = load_model('./my_model_32*3_withoutdct_5_tl_03gy_0928cold')  # 
       
